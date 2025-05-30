@@ -1,7 +1,1 @@
-INFO:root:Account created: 123456, Initial balance: \u20b91000
-INFO:root:SMS sent to +919019971120: Withdrawal of \u20b9500.00 successful. Available balance: \u20b9500.00
-INFO:root:Withdrawal of \u20b9500.00 successful. Available balance: \u20b9500.00 (Account: 123456)
-INFO:root:Withdrawal attempt completed.
-INFO:root:SMS sent to +919019971120: Deposit of \u20b9500.00 successful. Available balance: \u20b91000.00
-INFO:root:Deposit of \u20b9500.00 successful. Available balance: \u20b91000.00 (Account: 123456)
-INFO:root:Deposit attempt completed.
+
